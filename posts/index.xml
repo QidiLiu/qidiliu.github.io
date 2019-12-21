@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://qidiliu.github.io/posts/my-first-post/</link>
+      <title>My First Post 测试</title>
+      <link>http://qidiliu.github.io/posts/%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Fri, 20 Dec 2019 20:05:41 +0100</pubDate>
       
-      <guid>http://qidiliu.github.io/posts/my-first-post/</guid>
-      <description>不愧是我 哈哈哈哈哈哈</description>
+      <guid>http://qidiliu.github.io/posts/%E6%B5%8B%E8%AF%95/</guid>
+      <description>不愧是我 233333
+哈哈哈哈哈哈
+wtf is going on?</description>
     </item>
     
   </channel>
