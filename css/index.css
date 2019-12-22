@@ -1,7 +1,7 @@
 /* global */
 
 body {
-  font-family: xkcd-script, zcool-kuaile, "Arvo", "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial,
+  font-family: xkcd-script, permanent-marker, zcool-kuaile, "Arvo", "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial,
     "Liberation Sans", "PingFang SC", "Hiragino Sans GB", "Noto Sans CJK SC",
     "Source Han Sans SC", "Source Han Sans CN", "Microsoft YaHei",
     "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei,
@@ -60,7 +60,7 @@ a:hover {
 }
 
 .signatures {
-  font-family: "Permanent Marker",xkcd-script, zcool-kuaile;
+  font-family: zcool-kuaile;
 }
 
 .signatures a {

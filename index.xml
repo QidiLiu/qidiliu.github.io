@@ -1,25 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome | Qidi Liu</title>
+    <title>小刘家常菜 | Liu&#39;s dishes</title>
     <link>http://qidiliu.github.io/</link>
-    <description>Recent content on Welcome | Qidi Liu</description>
+    <description>Recent content on 小刘家常菜 | Liu&#39;s dishes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2019 20:05:41 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2019 12:37:54 +0100</lastBuildDate>
     
 	<atom:link href="http://qidiliu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post 测试</title>
-      <link>http://qidiliu.github.io/posts/%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Fri, 20 Dec 2019 20:05:41 +0100</pubDate>
+      <title>关于小刘</title>
+      <link>http://qidiliu.github.io/about/</link>
+      <pubDate>Sun, 22 Dec 2019 12:37:54 +0100</pubDate>
       
-      <guid>http://qidiliu.github.io/posts/%E6%B5%8B%E8%AF%95/</guid>
-      <description>不愧是我 233333
-哈哈哈哈哈哈
-wtf is going on?</description>
+      <guid>http://qidiliu.github.io/about/</guid>
+      <description>#95后 #山东人 #直男
+车辆工程汽车电子硕士在读，对做饭、机器学习、打篮球有点兴趣并略懂皮毛，讨厌政治但喜欢政治学
+ 豆瓣: 迪哥今天油腻吗 GitHub: QidiLiu · GitHub Email: adi0304@hotmail.com  </description>
+    </item>
+    
+    <item>
+      <title>蒜蓉西兰花</title>
+      <link>http://qidiliu.github.io/posts/%E8%92%9C%E8%93%89%E8%A5%BF%E5%85%B0%E8%8A%B1/</link>
+      <pubDate>Sat, 21 Dec 2019 22:42:25 +0100</pubDate>
+      
+      <guid>http://qidiliu.github.io/posts/%E8%92%9C%E8%93%89%E8%A5%BF%E5%85%B0%E8%8A%B1/</guid>
+      <description>尽管“年轻人要勇于尝试新鲜事物”听上去像是油腻中年的口头禅，小刘还是选择相信它。
+小刘试过各种版本的“todo-list” —— 电脑上、手机、平板、…… —— 因为大家推荐的时候有理有据：跨平台同步操作方便，管理也简单。完成任务时只要动动鼠标或敲一下玻璃板，随之而来的充满成就感的提示音让人很容易联想到游戏里吃金币的声音，那一刻，小刘有种成为了世上执行力最强的人的幻觉，想象着自己短时间内超额完成学业任务并提前毕业的样子。尽管，这白日梦中的一切只是源于刚刚标记完成的“买盒鸡蛋”。不敢说很了解自己，但小刘清楚自己是个在所有维度上喜新厌旧的渣男，所以在试过各种各样的“todo-list”后，当已经很久没用的“滴答清单”问小刘要不要再续一年会员时，他拒绝了。手写待办清单的缺点很多，电子版待办清单写在“软件特性”里的事情它几乎都办不到。但小刘还是用回了手写的，因为能坚持下来。
+小刘试过各种版本的西兰花做法，试图把各种家常菜的做法套在西兰花上 —— 红烧、辣炒、火锅、…… —— 倒不是为了减肥，只是单纯地很好奇，为什么只有蒜蓉可以跟西兰花这么配。跟胡萝卜一块炒的那次甚至以为自己成功了，去他妈的“红配绿赛狗屁”，小刘高兴地骂着，胡萝卜跟西兰花也是绝配啊，盘子里的那点东西好看得让人舍不得吃。更神奇的是胡萝卜特别的甜味和西兰花独特的口感混在嘴里时，小刘脑海里闪过无数《中华小当家》式脑补画面，吃完甚至想写个“特”字再画条龙贴自己胳膊上。直到有次在食堂吃完一大坨炸猪排和薯条后有点撑，想直接倒掉剩下的半盘西兰花和胡萝卜。那一刻小刘才从特级厨师梦里醒过来：可能之前只是晚饭吃得太晚了。于是小刘屈服于old-fashioned蒜蓉西兰花，每当发现蒜开始发芽他就会在待办清单上记好：“买颗西兰花”。
+小刘还试过各种版本的</description>
     </item>
     
   </channel>
