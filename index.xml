@@ -6,10 +6,27 @@
     <description>Recent content on 小刘写字的地方 | Liu&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2020 23:04:17 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jan 2021 20:49:08 +0100</lastBuildDate>
     
 	<atom:link href="http://qidiliu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PCB布局布线经验总结</title>
+      <link>http://qidiliu.github.io/posts/pcb%E5%B8%83%E5%B1%80%E5%B8%83%E7%BA%BF%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Mon, 25 Jan 2021 20:49:08 +0100</pubDate>
+      
+      <guid>http://qidiliu.github.io/posts/pcb%E5%B8%83%E5%B1%80%E5%B8%83%E7%BA%BF%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/</guid>
+      <description>PCB布局布线设计没有统一的标准，但在加工、应用中的限制却是实实在在的。一些PCB布局布线经验可有效避免设计漏洞。本文稍作总结，欢迎补充或指正。
+经验法则 3W原则和10W原则 W代表width（线宽）。为了减少线和线之间的干扰，PCB走线时，线和线之间起码要隔着三倍线宽（10W则为10倍线宽）。1
+ 线和线之间的中心距为3倍线宽 👉 串扰减少70% 线和线之间的中心距为3倍线宽 👉 串扰减少98%  20H原则 H代表height（度）。为了抑制边缘辐射效应，提高电磁兼容性（EMC），将电源层内缩，使电源层边缘比接地层边缘至少缩入相当于电源层和接地层之间间距的20倍。1
+五五原则 时钟频率高于5MHz或脉冲上升时间小于5ns时，PCB须采用多层板。1
+走线  为避免电流热效应的影响，应根据电流计算最窄线宽（0.35mm：1A）2 走线尽可能短，尽量少拐弯，两者往往有冲突，相对而言“少拐弯”重要得多 不要让需打印在PCB上的标识遮挡到焊盘2 如果必须拐弯，尽量用两个连续的135°角或圆角代替90°角2  接地层和电源  接地层越大越好 接地层星型布局3 模拟电路和数字电路分开放 混合信号应用中往往要把“模拟地”和“数字地”分开3 如果模拟电路和数字电路共用一个电压源，一定要用滤波器  其他  不要小看用于IC芯片的去耦电容4 连接去耦电容的走线不要太长4 不要忘记测试点和固定孔4 为避免部件朝向错误，应在PCB上标明TOP和BOT    PCB设计中耳熟的3W原则、20H原则和五五原则 &amp;#x21a9;&amp;#xfe0e;
+ Richtiges Designen von Platinenlayouts &amp;#x21a9;&amp;#xfe0e;
+ Layout设计良好接地指导原则 &amp;#x21a9;&amp;#xfe0e;
+ PCB-Design-Regeln: Sieben Sünden beim Leiterplatten-Design &amp;#x21a9;&amp;#xfe0e;
+   </description>
+    </item>
     
     <item>
       <title>我想家了</title>
